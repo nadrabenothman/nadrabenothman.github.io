@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64f972a2-557c-485a-b9f8-af2d9846830c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/portfolio/allforD.png" afterPath="$PROJECT_DIR$/uploads/portfolio/allforD.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -627,7 +628,7 @@
       <updated>1486846272228</updated>
       <workItem from="1486846274101" duration="2244000" />
       <workItem from="1487342290022" duration="127000" />
-      <workItem from="1487844499510" duration="9741000" />
+      <workItem from="1487844499510" duration="10106000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1487844560371</created>
@@ -678,11 +679,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487969604099</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <created>1487969822866</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1487969822866</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12112000" />
+    <option name="totallyTimeSpent" value="12477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1370" height="744" extended-state="0" />
