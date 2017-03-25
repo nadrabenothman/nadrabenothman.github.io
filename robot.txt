@@ -4,3 +4,4 @@ Disallow: /*.png$
 Disallow: /*.gif$
 Disallow: /images/
 Allow: /
+Sitemap: http://nedrabn.me/sitemap.xml
